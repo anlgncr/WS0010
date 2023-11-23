@@ -4,4 +4,6 @@ Türkçe karakter desteği ve grafik modunu yakın zamanda ekleyeceğim.
 
 İyi eğlenceler.
 
+https://www.winstar.com.tw/tr/products/oled-module/oled-character-display/weh001602a.html
+
 ![WEH001602AW](https://github.com/anlgncr/WS0010/assets/13089698/2e1dabb6-55f4-4c96-a082-106e43717c5b)
