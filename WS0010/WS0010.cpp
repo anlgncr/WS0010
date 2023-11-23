@@ -18,7 +18,6 @@ void WS0010::init(){
 }
 
 void WS0010::clear(){
-	
 	sendCmd(CLEAR_DISPLAY);
 	sendCmd(RETURN_HOME);
 }
