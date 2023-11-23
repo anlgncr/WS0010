@@ -61,7 +61,7 @@ void WS0010::sendCmd(uint8_t cmd){
 
 void WS0010::sendData(uint8_t *data, uint8_t length){
 	PORTB &= B00111011;														// digitalWrite(10, LOW);
-	send(0xC0,2);
+	send(0x80,2);
 	
 	for(uint8_t i=0; i<length; i++){
 		send(data[i], 8);
