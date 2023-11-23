@@ -1,6 +1,6 @@
 Bu kütüphane ile WS0010 sürücü devresine sahip oled ekranları kullanabilirsiniz.
 
-WS0010 sürücüsü 4Bit, 8Bit ve ser iletişim seçenekleri sunuyor. 
+WS0010 sürücüsü 4Bit, 8Bit ve seri iletişim seçenekleri sunuyor. 
 
 Mikroişlemcide pin tasarrufu için bu kütüphanede seri iletişim seçeneğini kullandım.
 
