@@ -133,9 +133,7 @@ void WS0010::print(char* text)
 			else
 				break;
 		}
-		for(byte i=0; i<byteCount; i++){
-			byte b = *(text + i);
-			Serial.println(b, BIN);
+		
 		}
 		if(byteCount == 0){
 			byteCount = 1;
