@@ -12,7 +12,7 @@ Havya ve lehim telini şimdiden hazır etseniz iyi olur.
 
 ![20231124_135912](https://github.com/anlgncr/WS0010/assets/13089698/87a39fe4-a3e1-4a68-a694-2087c0e591b1)
 
-Türkçe karakter desteğini ve grafik modunu yakın zamanda ekleyeceğim.
+Türkçe karakter desteği vardır. Grafik modunu yakın zamanda ekleyeceğim.
 
 İyi eğlenceler.
 
