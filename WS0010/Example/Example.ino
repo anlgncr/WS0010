@@ -3,7 +3,9 @@ WS0010 oled;
 
 void setup() {
   oled.init();
-  oled.print("Esenlikler");
+  oled.print("Hoşgeldiniz...½");
+  oled.moveCursor(1,0);
+  oled.print("Lütfen bekleyin!");
 }
 
 void loop() {
