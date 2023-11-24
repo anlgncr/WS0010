@@ -134,7 +134,6 @@ void WS0010::print(char* text)
 				break;
 		}
 		
-		}
 		if(byteCount == 0){
 			byteCount = 1;
 		}
