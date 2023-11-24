@@ -133,7 +133,7 @@ void WS0010::print(char* text)
 			else
 				break;
 		}
-		
+	
 		if(byteCount == 0){
 			byteCount = 1;
 		}
